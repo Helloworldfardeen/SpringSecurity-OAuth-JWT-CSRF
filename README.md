@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/SpringSecurity-OAuth-JWT-CSRF.git
+git clone  https://github.com/Helloworldfardeen/SpringSecurity-OAuth-JWT-CSRF.git
 cd SpringSecurity-OAuth-JWT-CSRF
 Configure your Google and GitHub OAuth credentials in the application.properties.
 
