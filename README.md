@@ -1,7 +1,6 @@
-# SpringSecurity-OAuth-JWT-CSRF
-#Overview
-#This project demonstrates the integration of Spring Security with OAuth (Google and GitHub), JWT for token-based authentication, and CSRF protection. 
-#The application secures web requests by authenticating users through third-party providers and ensuring secure token-based access to protected resources.
+SpringSecurity-OAuth-JWT-CSRF
+Overview
+This project demonstrates the integration of Spring Security with OAuth (Google and GitHub), JWT for token-based authentication, and CSRF protection. The application secures web requests by authenticating users through third-party providers and ensuring secure token-based access to protected resources.
 
 Features
 Google OAuth: User authentication via Google.
@@ -15,4 +14,5 @@ Spring Security
 JWT (JSON Web Tokens)
 OAuth 2.0
 Maven
-/localhost:8080
+Localhost URL
+Application will run on http://localhost:8080.
