@@ -1,5 +1,5 @@
-SpringSecurity-OAuth-JWT-CSRF
-Overview
+#SpringSecurity-OAuth-JWT-CSRF
+#Overview
 This project demonstrates the integration of Spring Security with OAuth (Google and GitHub), JWT for token-based authentication, and CSRF protection. The application secures web requests by authenticating users through third-party providers and ensuring secure token-based access to protected resources.
 
 Features
